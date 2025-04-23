@@ -1,0 +1,6 @@
+@BugTicketingSystem.Api_HostAddress = https://localhost:7030
+
+GET {{BugTicketingSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

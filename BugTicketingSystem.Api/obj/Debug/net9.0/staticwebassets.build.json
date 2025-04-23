@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BKthx6SIF82iX2/Wlm5z9pOQEZ+657UTGqgkYsDUSsg=",
+  "Source": "BugTicketingSystem.Api",
+  "BasePath": "_content/BugTicketingSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
