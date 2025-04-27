@@ -69,6 +69,69 @@
   },
   {
     "ContainingType": "BugTicketingSystem.Api.Controllers.BugController",
+    "Method": "UploadAttachment",
+    "RelativePath": "api/Bug/bugs/{bugId}/attachments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugTicketingSystem.Api.Controllers.BugController",
+    "Method": "GetAttachmentsForBug",
+    "RelativePath": "api/Bug/bugs/{bugId}/attachments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugTicketingSystem.Api.Controllers.BugController",
+    "Method": "DeleteAttachment",
+    "RelativePath": "api/Bug/bugs/{bugId}/attachments/{attachmentId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "attachmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugTicketingSystem.Api.Controllers.BugController",
     "Method": "GetBugByIdAsync",
     "RelativePath": "api/Bug/bugs/{id}",
     "HttpMethod": "GET",
@@ -120,6 +183,38 @@
       {
         "Name": "id",
         "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugTicketingSystem.Api.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/users/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "BugTicketingSystem.BL.DTOs.Account.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugTicketingSystem.Api.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/users/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "BugTicketingSystem.BL.DTOs.Account.RegisterDto",
         "IsRequired": true
       }
     ],

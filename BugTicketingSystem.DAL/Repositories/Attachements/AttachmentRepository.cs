@@ -18,49 +18,44 @@ namespace BugTicketingSystem.DAL.Repositories.Attachements
             _Context = context;
         }
 
-        // Upload Attachment
-        public async Task UploadAttachmentAsync(Guid bugId, Attachement attachment)
+        public async Task<bool> DeleteAttachmentAsync(Guid bugId, Guid attachmentId)
         {
-            var bug = await _Context.Set<Bug>()
-                .Include(b => b.Attachements)
-                .FirstOrDefaultAsync(b => b.Id == bugId);
+            var attachment = await _Context.Attachements
+            .FirstOrDefaultAsync(a => a.Id == attachmentId && a.BugId == bugId);
 
-            if (bug == null)
-                throw new Exception("Bug not found");
-
-            bug.Attachements.Add(attachment);
-            
-        }
-
-        // Get All Attachments for a Bug
-        public async Task<List<Attachement>> GetAttachmentsForBugAsync(Guid bugId)
-        {
-            var bug = await _Context.Set<Bug>()
-                .Include(b => b.Attachements)
-                .FirstOrDefaultAsync(b => b.Id == bugId);
-
-            if (bug == null)
-                throw new Exception("Bug not found");
-
-            return bug.Attachements.ToList();
-        }
-
-        // Delete Attachment
-        public async Task DeleteAttachmentAsync(Guid bugId, Guid attachmentId)
-        {
-            var bug = await _Context.Set<Bug>()
-                .Include(b => b.Attachements)
-                .FirstOrDefaultAsync(b => b.Id == bugId);
-
-            if (bug == null)
-                throw new Exception("Bug not found");
-
-            var attachment = bug.Attachements.FirstOrDefault(a => a.Id == attachmentId);
             if (attachment == null)
-                throw new Exception("Attachment not found");
+            {
+                return false;
+            }
 
-            bug.Attachements.Remove(attachment);
+            _Context.Attachements.Remove(attachment);
+            //await _Context.SaveChangesAsync();
+
+            return true;
+        
+        }
+
+        public async Task<IEnumerable<Attachement>> GetAttachmentsByBugIdAsync(Guid bugId)
+        {
+            return await _Context.Attachements
+            .Where(a => a.BugId == bugId)
+            .ToListAsync();
+        }
+
+        public async Task<Attachement> UploadAttachmentAsync(Guid bugId, Attachement attachment)
+        {
             
+            var bug = await _Context.Bugs.FirstOrDefaultAsync(b => b.Id == bugId);
+            if (bug == null)
+            {
+                return null;
+            }
+            attachment.BugId = bugId;
+
+            await _Context.Attachements.AddAsync(attachment);
+           // await _Context.SaveChangesAsync();
+
+            return attachment;
         }
     }
 }

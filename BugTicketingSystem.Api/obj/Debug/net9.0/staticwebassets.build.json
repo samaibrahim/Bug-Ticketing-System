@@ -1,12 +1,1897 @@
 {
   "Version": 1,
-  "Hash": "BKthx6SIF82iX2/Wlm5z9pOQEZ+657UTGqgkYsDUSsg=",
+  "Hash": "0uqOvuU5x6sc4HbouwepUgEVJ0QzsSTwgSNN/vwhXpE=",
   "Source": "BugTicketingSystem.Api",
   "BasePath": "_content/BugTicketingSystem.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "BugTicketingSystem.Api\\wwwroot",
+      "Source": "BugTicketingSystem.Api",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\0giwjlchny-1crv8spp22.gz",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement#[.{fingerprint=1crv8spp22}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bsfjpa79ze",
+      "Integrity": "VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\5m88lgdz6t-1crv8spp22.gz",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement#[.{fingerprint=1crv8spp22}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bsfjpa79ze",
+      "Integrity": "VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\l8kit7sbf0-1crv8spp22.gz",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement#[.{fingerprint=1crv8spp22}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bsfjpa79ze",
+      "Integrity": "VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\xtwic7rlkg-1crv8spp22.gz",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement#[.{fingerprint=1crv8spp22}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bsfjpa79ze",
+      "Integrity": "VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1crv8spp22",
+      "Integrity": "IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1crv8spp22",
+      "Integrity": "IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/6700ab5a-2e60-41a3-b163-a475295259af_dal#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcqzvu4y5u",
+      "Integrity": "JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1crv8spp22",
+      "Integrity": "IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/760ff8e0-673b-4f4d-889d-ad547e648607_dal#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcqzvu4y5u",
+      "Integrity": "JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcqzvu4y5u",
+      "Integrity": "JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lmf6pse8lu",
+      "Integrity": "nR3BPusPYO1oQBPDhcm19j+KxKpkoYYywluP5P8J1Zc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/c51a40fe-c598-47b3-8285-12b8ef78feb6_dal#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcqzvu4y5u",
+      "Integrity": "JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "SourceId": "BugTicketingSystem.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\",
+      "BasePath": "_content/BugTicketingSystem.Api",
+      "RelativePath": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1crv8spp22",
+      "Integrity": "IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\xtwic7rlkg-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.1crv8spp22.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\xtwic7rlkg-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\xtwic7rlkg-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\xtwic7rlkg-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\5m88lgdz6t-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.1crv8spp22.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\5m88lgdz6t-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\5m88lgdz6t-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\5m88lgdz6t-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:07:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6700ab5a-2e60-41a3-b163-a475295259af_dal.kcqzvu4y5u.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:40:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcqzvu4y5u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:40:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\0giwjlchny-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.1crv8spp22.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\0giwjlchny-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\0giwjlchny-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\0giwjlchny-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/760ff8e0-673b-4f4d-889d-ad547e648607_dal.kcqzvu4y5u.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcqzvu4y5u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.kcqzvu4y5u.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcqzvu4y5u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nR3BPusPYO1oQBPDhcm19j+KxKpkoYYywluP5P8J1Zc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nR3BPusPYO1oQBPDhcm19j+KxKpkoYYywluP5P8J1Zc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.lmf6pse8lu.jpg",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nR3BPusPYO1oQBPDhcm19j+KxKpkoYYywluP5P8J1Zc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lmf6pse8lu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nR3BPusPYO1oQBPDhcm19j+KxKpkoYYywluP5P8J1Zc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.kcqzvu4y5u.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcqzvu4y5u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdQQIe1Sr5bOGjbEkdOtQDsez/69UWNGUGzQ64sIBc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\l8kit7sbf0-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.1crv8spp22.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.1crv8spp22.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\l8kit7sbf0-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1crv8spp22"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\l8kit7sbf0-1crv8spp22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IWS0a0iPsRMuysmNw1JjpMLdVYCcELJBuyN2Oia9LAs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt.gz",
+      "AssetFile": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\obj\\Debug\\net9.0\\compressed\\l8kit7sbf0-1crv8spp22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VViyZv+AXJ/ZzCKbTKweuKM/Yl08vqKDdqyfZvfiTUY="
+        }
+      ]
+    }
+  ]
 }

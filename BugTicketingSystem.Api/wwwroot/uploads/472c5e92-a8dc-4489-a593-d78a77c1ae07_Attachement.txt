@@ -1,0 +1,46 @@
+// Upload Attachment
+public async Task UploadAttachmentAsync(Guid bugId, Attachement attachment)
+{
+    var bug = await _Context.Set<Bug>()
+        .Include(b => b.Attachements)
+        .FirstOrDefaultAsync(b => b.Id == bugId);
+
+    if (bug == null)
+        throw new Exception("Bug not found");
+
+    bug.Attachements.Add(attachment);
+    
+
+}
+
+// Get All Attachments for a Bug
+public async Task<List<Attachement>> GetAttachmentsForBugAsync(Guid bugId)
+{
+    var bug = await _Context.Set<Bug>()
+        .Include(b => b.Attachements)
+        .FirstOrDefaultAsync(b => b.Id == bugId);
+
+    if (bug == null)
+        throw new Exception("Bug not found");
+
+    return bug.Attachements.ToList();
+}
+
+// Delete Attachment
+public async Task<bool> DeleteAttachmentAsync(Guid bugId, Guid attachmentId)
+{
+    var bug = await _Context.Set<Bug>()
+        .Include(b => b.Attachements)
+        .FirstOrDefaultAsync(b => b.Id == bugId);
+
+    if (bug == null)
+        return false;
+
+    var attachment = bug.Attachements.FirstOrDefault(a => a.Id == attachmentId);
+    if (attachment == null)
+        return false;
+
+    bug.Attachements.Remove(attachment);
+    return true;
+    
+}

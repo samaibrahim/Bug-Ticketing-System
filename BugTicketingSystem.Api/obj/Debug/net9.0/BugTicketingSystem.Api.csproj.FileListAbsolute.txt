@@ -9,6 +9,7 @@ C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\B
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -174,3 +175,8 @@ C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\B
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\BugTicketingSystem.Api.pdb
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\BugTicketingSystem.Api.genruntimeconfig.cache
 C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\ref\BugTicketingSystem.Api.dll
+C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\bin\Debug\net9.0\BugTicketingSystem.Api.staticwebassets.runtime.json
+C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\compressed\xtwic7rlkg-1crv8spp22.gz
+C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\compressed\5m88lgdz6t-1crv8spp22.gz
+C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\compressed\0giwjlchny-1crv8spp22.gz
+C:\Users\COMPU MARTS\Desktop\ITI_Tasks\cSharp_labs\MVC & API\final_project_api\BugTicketingSystem\BugTicketingSystem.Api\obj\Debug\net9.0\compressed\l8kit7sbf0-1crv8spp22.gz

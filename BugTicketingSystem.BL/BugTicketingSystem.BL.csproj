@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BugTicketingSystem.DAL\BugTicketingSystem.DAL.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Managers\Account\" />
+    <ProjectReference Include="..\BugTicketingSystem.DAL\BugTicketingSystem.DAL.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt",
+      "PackagePath": "staticwebassets\\uploads\\472c5e92-a8dc-4489-a593-d78a77c1ae07_Attachement.txt"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt",
+      "PackagePath": "staticwebassets\\uploads\\60fd14ed-6a48-4b12-98b5-46b18c2710a6_Attachement.txt"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG",
+      "PackagePath": "staticwebassets\\uploads\\6700ab5a-2e60-41a3-b163-a475295259af_dal.PNG"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt",
+      "PackagePath": "staticwebassets\\uploads\\6a32d6a1-c781-4e12-8b55-210f5261c625_Attachement.txt"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG",
+      "PackagePath": "staticwebassets\\uploads\\760ff8e0-673b-4f4d-889d-ad547e648607_dal.PNG"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG",
+      "PackagePath": "staticwebassets\\uploads\\8e9a9fc9-8e88-4975-85ba-7f2c851ca925_dal.PNG"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9c5ecaac-7d81-460b-94c8-b14770df884d_API_Project.jpg"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG",
+      "PackagePath": "staticwebassets\\uploads\\c51a40fe-c598-47b3-8285-12b8ef78feb6_dal.PNG"
+    },
+    {
+      "Id": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC & API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\wwwroot\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt",
+      "PackagePath": "staticwebassets\\uploads\\ef482171-ef72-43f7-afb6-89db45cff887_Attachement.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BugTicketingSystem.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BugTicketingSystem.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BugTicketingSystem.Api.props",
+      "PackagePath": "build\\BugTicketingSystem.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BugTicketingSystem.Api.props",
+      "PackagePath": "buildMultiTargeting\\BugTicketingSystem.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BugTicketingSystem.Api.props",
+      "PackagePath": "buildTransitive\\BugTicketingSystem.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

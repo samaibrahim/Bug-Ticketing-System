@@ -102,7 +102,7 @@ namespace BugTicketingSystem.BL.Managers.Bugs
                 {
                     Id = a.Id,
                     FileName = a.FileName,
-                    FileUrl = a.FilePath
+                    FilePath = a.FilePath
                 }).ToList()
 
             };

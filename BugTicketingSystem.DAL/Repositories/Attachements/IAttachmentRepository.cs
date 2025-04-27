@@ -9,8 +9,12 @@ namespace BugTicketingSystem.DAL.Repositories.Attachements
 {
     public interface IAttachmentRepository
     {
-        Task UploadAttachmentAsync(Guid bugId, Attachement attachment);
-        Task<List<Attachement>> GetAttachmentsForBugAsync(Guid bugId);
-        Task DeleteAttachmentAsync(Guid bugId, Guid attachmentId);
+        // Upload attachment to bug
+        Task<Attachement> UploadAttachmentAsync(Guid bugId, Attachement attachment);
+        // Get attachments for bug
+        Task<IEnumerable<Attachement>> GetAttachmentsByBugIdAsync(Guid bugId);
+        // Delete attachment from bug
+        Task<bool> DeleteAttachmentAsync(Guid bugId, Guid attachmentId); 
+
     }
 }

@@ -1,12 +1,184 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.bl\\managers\\account\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|solutionrelative:bugticketingsystem.bl\\managers\\account\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6785DF4-432D-4BA0-929F-7A9894EB4A16}|BugTicketingSystem.DAL\\BugTicketingSystem.DAL.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.dal\\context\\bugticketingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6785DF4-432D-4BA0-929F-7A9894EB4A16}|BugTicketingSystem.DAL\\BugTicketingSystem.DAL.csproj|solutionrelative:bugticketingsystem.dal\\context\\bugticketingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.bl\\managers\\attachement\\iattachementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|solutionrelative:bugticketingsystem.bl\\managers\\attachement\\iattachementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.bl\\managers\\attachement\\attachementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|solutionrelative:bugticketingsystem.bl\\managers\\attachement\\attachementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.bl\\managers\\bugs\\bugmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|solutionrelative:bugticketingsystem.bl\\managers\\bugs\\bugmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BugTicketingSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.DAL\\Context\\BugTicketingSystemContext.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.DAL\\Context\\BugTicketingSystemContext.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.DAL\\Context\\BugTicketingSystemContext.cs",
+              "RelativeToolTip": "BugTicketingSystem.DAL\\Context\\BugTicketingSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:10:12.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAttachementManager.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Attachement\\IAttachementManager.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.BL\\Managers\\Attachement\\IAttachementManager.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Attachement\\IAttachementManager.cs",
+              "RelativeToolTip": "BugTicketingSystem.BL\\Managers\\Attachement\\IAttachementManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:27:44.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttachementManager.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Attachement\\AttachementManager.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.BL\\Managers\\Attachement\\AttachementManager.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Attachement\\AttachementManager.cs",
+              "RelativeToolTip": "BugTicketingSystem.BL\\Managers\\Attachement\\AttachementManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:26:39.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BugManager.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "RelativeToolTip": "BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:26:24.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.Api\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "BugTicketingSystem.Api\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:26:05.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BugTicketingSystem.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:26:03.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BugTicketingSystem.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\appsettings.json",
+              "RelativeToolTip": "BugTicketingSystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T15:18:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BugController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\BugController.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.Api\\Controllers\\BugController.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\BugController.cs",
+              "RelativeToolTip": "BugTicketingSystem.Api\\Controllers\\BugController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:15:45.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Program.cs",
+              "RelativeToolTip": "BugTicketingSystem.Api\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:14:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Account\\AccountManager.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.BL\\Managers\\Account\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Account\\AccountManager.cs",
+              "RelativeToolTip": "BugTicketingSystem.BL\\Managers\\Account\\AccountManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:09:47.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
