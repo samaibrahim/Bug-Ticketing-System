@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB85FAC-CAC5-418A-B0C1-B80F599F9747}|BugTicketingSystem.Api\\BugTicketingSystem.Api.csproj|solutionrelative:bugticketingsystem.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{743FB0C1-7271-4D67-A13C-73B6F0FD26A9}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|c:\\users\\compu marts\\desktop\\iti_tasks\\csharp_labs\\mvc \u0026 api\\final_project_api\\bugticketingsystem\\bugticketingsystem.bl\\managers\\account\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -139,12 +139,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BugController.cs",
               "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\BugController.cs",
               "RelativeDocumentMoniker": "BugTicketingSystem.Api\\Controllers\\BugController.cs",
-              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\BugController.cs*",
-              "RelativeToolTip": "BugTicketingSystem.Api\\Controllers\\BugController.cs*",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Controllers\\BugController.cs",
+              "RelativeToolTip": "BugTicketingSystem.Api\\Controllers\\BugController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T15:15:45.594Z",
@@ -152,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Program.cs",
               "RelativeDocumentMoniker": "BugTicketingSystem.Api\\Program.cs",
               "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\ITI_Tasks\\cSharp_labs\\MVC \u0026 API\\final_project_api\\BugTicketingSystem\\BugTicketingSystem.Api\\Program.cs",
               "RelativeToolTip": "BugTicketingSystem.Api\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T15:14:07.741Z",
               "EditorCaption": ""
